@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">PlaylistMaker</string>
+    <string name="app_name">Playlist Maker</string>
+    
+    <string-array name="main_screen_tabs">
+        <item>Поиск</item>
+        <item>Плейлисты</item>
+        <item>Избранное</item>
+        <item>Настройки</item>
+    </string-array>
+    
+    <string-array name="main_screen_icons">
+        <item>@drawable/ic_search</item>
+        <item>@drawable/ic_playlist</item>
+        <item>@drawable/ic_favorite</item>
+        <item>@drawable/ic_settings</item>
+    </string-array>
 </resources>
